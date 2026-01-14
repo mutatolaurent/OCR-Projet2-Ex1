@@ -149,7 +149,7 @@ p {
 	color:  white;
 }
 
-/* LS : J'ai ajouté cette propriété pour être en phase avec la maquette */
+/* LS : J'ai ajouté cette propriété pour être en phase avec la maquette Figma*/
 /* Supprime les marges des paragraphes dans les sections blanches */
 .whiteContentSection p {
 	margin: 0px;
